@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Utkarsha
 - 👀 I’m interested in Travelling
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c
 
 
 
