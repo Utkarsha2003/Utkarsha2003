@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Utkarsha (Utku)  
+# 👋 Hey there, I'm Utkarsha
 
 I’m a **Computer Science undergrad** who loves to build, break, and learn.  
 From **AI/ML experiments** to **web apps** to exploring the depths of **cybersecurity & blockchain**, I enjoy diving into new technologies and seeing how they can shape the future.  
